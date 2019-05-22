@@ -14,3 +14,5 @@ Features + Notebooks
 ### Clickbait - Matt DiPietro
 ### Feature Heuristic - Sindhuja Ramini
 ### Sentiment Analysis - Jonathan Gee
+ - GoogleSentimentAnalysis.ipynb: Utilizing Google Sentiment Analyzer to find the sentiment of Liar Liar Dataset
+ - SentimentAnalysis.ipynb: Data cleaning and preparation for the amalgamated Onion Dataset, and sentiment analysis class as a stand alone
